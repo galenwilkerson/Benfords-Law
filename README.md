@@ -49,7 +49,7 @@ pip install -r requirements.txt
 3. Open the Jupyter notebook:
 
    ```bash
-   jupyter notebook "Benford's Law and Its Application in Fraud Detection.ipynb"
+   jupyter notebook "Benford's Law, Scale-Invariance, and Applications in Fraud Detection.ipynb"
    ```
 
 4. Run the cells in the notebook to see how Benford's Law is demonstrated and applied to various datasets.
