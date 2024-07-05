@@ -64,12 +64,3 @@ pip install -r requirements.txt
 ## Conclusion
 
 By following the steps in this tutorial, you will understand how Benford's Law can be observed in real-world data and its applications in detecting anomalies and ensuring data integrity.
-
----
-
-### References
-
-- [Yahoo Finance API Guide - AlgoTrading101](https://algotrading101.com)
-- [Fetching Stock Data from Yahoo Finance - Boutique Trading Strategies](https://www.boutiquetradingstrategies.com)
-
-For more information on Benford's Law and its applications, check the provided notebook and explore the references.
