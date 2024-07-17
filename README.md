@@ -1,5 +1,7 @@
 # Benford's Law
 
+<img src="./benford.png" width="300" height="300">
+
 A tutorial on how Benford's Law, a characteristic distribution of naturally occurring measurements, emerges out of multiplicative processes. Benford's Law is often used in fraud detection.
 
 ## Overview
